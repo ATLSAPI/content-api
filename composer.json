@@ -1,0 +1,11 @@
+{
+    "name": "israel/content-api",
+    "description": "api",
+    "authors": [
+        {
+            "name": "ISRAEL",
+            "email": "osis4busy@yahoo.com"
+        }
+    ],
+    "require": {}
+}
