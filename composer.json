@@ -7,5 +7,7 @@
             "email": "osis4busy@yahoo.com"
         }
     ],
-    "require": {}
+    "require": {
+        "jms/serializer": "^1.1"
+    }
 }
